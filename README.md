@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4b2861f46bafdf3fccc7c8ab58822401ae4a14d4671c61568fd1a51e66a63087
-size 572
+# COMP3023 Final - AimTrainer
+## Assets & Source Files
+Most assets are pregenerated from the First Person Shooter Template offered on Unreal Engine. Other assets were obtained from the Epic Games Store for free, and were apart of a pack titled "Creating a First-Person Aim Trainer". Characters were made in Blender and MakeHuman, then imported to Unreal Engine by me.
+
+## Attribution List for Acquired Assets
+Unreal Engine: First Person Shooter Template
+Unreal Engine Learning: Creating a First-Person Aim Trainer Template Files
+Freesound: War Music (in-game music)
